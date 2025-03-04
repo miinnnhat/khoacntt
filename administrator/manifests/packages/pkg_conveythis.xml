@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5" method="upgrade">
+	<name>ConveyThis</name>
+	<author>www.ConveyThis.com</author>
+	<creationDate>Sep 2018</creationDate>
+	<copyright>Copyright (C) 2018 www.conveythis.com, All rights reserved.</copyright>
+	<license>ConveyThis is licensed under GPLv2 license.</license>
+	<packagename>conveythis</packagename>
+	<version>51</version>
+	<url>https://www.conveythis.com</url>
+	<packager></packager>
+	<packagerurl>https://www.conveythis.com</packagerurl>
+	<description></description>
+	<files folder="packages">
+		<file type="component" id="com_conveythis" >com_conveythis.zip</file>
+		<file type="plugin" id="conveythis" group="system">plg_conveythis.zip</file>
+	</files>
+	<updateservers>
+		<server type="extension" priority="1" name="ConveyThis Update Site">https://cdn.conveythis.com/joomla/update.xml</server>
+	</updateservers>
+</extension>

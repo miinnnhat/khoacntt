@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="2.5" method="upgrade">
+	<name>ConveyThis</name>
+	<creationDate>Sep 2018</creationDate>
+	<author>www.ConveyThis.com</author>
+	<authorEmail>info@conveythis.com</authorEmail>
+	<authorUrl>https://www.conveythis.com</authorUrl>
+	<copyright>Copyright (C) 2018 www.conveythis.com, All rights reserved.</copyright>
+	<license>ConveyThis is licensed under GPLv2 license.</license>
+	<version>51</version>
+	<description></description>
+	<administration>
+		<menu link="index.php?option=com_conveythis">ConveyThis</menu>
+		<files folder="admin">
+			<filename>index.html</filename>
+			<filename>conveythis.php</filename>
+			<filename>settings.php</filename>
+		</files>
+	</administration>
+</extension>

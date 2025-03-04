@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="plugin" version="4.0" method="upgrade" group="system">
+	<name>System - Wonderchat</name>
+	<creationDate>2024-01-01</creationDate>
+	<author>IdealExtensions.com</author>
+	<authorEmail>support@idealextensions.com</authorEmail>
+	<authorUrl>https://IdealExtensions.com</authorUrl>
+	<copyright>Copyright (C) 2006 - 2024 Ideal Extensions for Joomla!. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<version>5.0</version>
+	<namespace path="src">IdealExtensions\Plugin\System\Wonderchat</namespace>
+	<description>PLG_SYSTEM_WONDERCHAT_XML_DESCRIPTION</description>
+	<files>
+		<folder plugin="wonderchat">services</folder>
+		<folder>src</folder>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB/plg_system_wonderchat.ini</language>
+		<language tag="en-GB">language/en-GB/plg_system_wonderchat.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params" addfieldprefix="IdealExtensions\Plugin\System\Wonderchat\Field">
+			<fieldset name="basic">
+				<field name="widget_id" type="text" label="Widget data-id" />
+
+				<field name="widget_size" type="radio" class="btn-group" default="normal"
+					label="Widget size">
+					<option value="normal">Normal</option>
+					<option value="large">Large</option>
+				</field>
+
+				<field name="widget_btn_size" type="radio" class="btn-group" default="normal"
+					label="Widget Button size">
+					<option value="normal">Normal</option>
+					<option value="large">Large</option>
+				</field>
+				<field name="widget_offset_bottom"	type="number" min="0" default="0" label="Widget offset bottom (px)" />
+				<field name="widget_offset_right"	type="number" min="0" default="0" label="Widget offset right (px)" />
+
+				
+				<field name="loadonmobile" type="radio" default="1"
+					layout="joomla.form.field.radio.switcher"
+					label="PLG_SYSTEM_WONDERCHAT_LOAD_ON_MOBILE_LABEL" description="PLG_SYSTEM_WONDERCHAT_LOAD_ON_MOBILE_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+				<field
+					name="exclude_menu_items"
+					type="menuitem"
+					label="PLG_SYSTEM_WONDERCHAT_EXCLUDE_MENU_ITEMS_LABEL"
+					description="PLG_SYSTEM_WONDERCHAT_EXCLUDE_MENU_ITEMS_DESC"
+					multiple="multiple"
+					filter="intarray"
+					layout="joomla.form.field.groupedlist-fancy-select"
+				/>
+				<field name="exclude_components" type="componentlist" default="-1" label="PLG_SYSTEM_WONDERCHAT_EXCLUDE_COMPONENTS_LABEL" 
+					description="PLG_SYSTEM_WONDERCHAT_EXCLUDE_COMPONENTS_DESC"
+					multiple="multiple" size="8"
+					layout="joomla.form.field.list-fancy-select"
+					exclude="com_ajax|com_modules|com_menus|com_fields|com_config|com_media|com_contenthistory|com_banners">
+					<option value="">JNONE</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

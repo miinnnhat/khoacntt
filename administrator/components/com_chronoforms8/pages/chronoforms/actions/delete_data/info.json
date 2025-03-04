@@ -1,0 +1,18 @@
+{
+	"title": "Delete Data",
+	"group": "Database",
+	"hints": {"dbtable":"Table"},
+	"areas": [
+		{
+			"name": "not_deleted",
+			"color": "red",
+			"title": "On Delete Failed"
+		},
+		{
+			"name": "deleted",
+			"color": "green",
+			"title": "On Delete Success"
+		}
+	],
+	"icon":"trash"
+}

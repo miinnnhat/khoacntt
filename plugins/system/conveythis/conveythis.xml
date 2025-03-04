@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system" method="upgrade">
+	<name>System - ConveyThis</name>
+	<author>www.ConveyThis.com</author>
+	<creationDate>Sep 2018</creationDate>
+	<copyright>Copyright (C) 2018 www.conveythis.com, All rights reserved.</copyright>
+	<license>ConveyThis is licensed under GPLv2 license.</license>
+	<authorEmail>info@conveythis.com</authorEmail>
+	<authorUrl>https://www.conveythis.com</authorUrl>
+	<version>51</version>
+	<description>PLG_CONVEYTHIS_XML_DESCRIPTION</description>
+	<scriptfile>enable.php</scriptfile>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_system_conveythis.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_system_conveythis.sys.ini</language>
+	</languages>
+	<media destination="conveythis" folder="media">
+		<filename>index.html</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+		<folder>js</folder>
+	</media>
+	<files>
+		<filename plugin="conveythis">index.html</filename>
+		<filename plugin="conveythis">conveythis.php</filename>
+		<filename plugin="conveythis">enable.php</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic"></fieldset>
+		</fields>
+	</config>
+</extension>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>News</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.joomlapolis.com/news</link>
+		<lastBuildDate>Wed, 18 Dec 2024 04:16:25 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.joomlapolis.com/news?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Revolutionize Your Joomla Downloads with CB Package Builder 8.0!</title>
+			<link>https://www.joomlapolis.com/news/19075-cb-package-builder-8-0-joomla-downloads</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19075-cb-package-builder-8-0-joomla-downloads</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/stories/blogs/krileon/cbpkb/800/history_cms_statistics.webp" alt="A pie chart titled &quot;CMS Usage&quot; shows the distribution of different versions of Joomla. The chart is divided into four segments: a large red segment representing Joomla 5.0 with 51 users, a blue segment for Joomla 4.0 with 21 users, a small green segment for Joomla 3.0 with 3 users, and an orange segment for Unknown with 1 user." width="415" height="253" loading="lazy"></p><p>We are thrilled to introduce <strong>CB Package Builder 8.0</strong>, the ultimate solution for <strong>presenting, managing, and distributing your digital packages on Joomla</strong>. Designed to streamline the process of managing files and Joomla extensions, CB Package Builder provides unmatched flexibility and control, making it indispensable for developers and administrators managing multiple files downloads, client sites or custom extensions.</p>
+<p>Imagine simplifying your life by having complete control over what files, packages, or Joomla extensions each client site can access and update. Additionally, CB Package Builder's robust site key authentication ensures that your digital assets are securely managed, delivering peace of mind when rolling out updates or distributing components.</p>
+<h2 class="mb-2 mt-6 text-lg first:mt-3">What Makes CB Package Builder Indispensable?</h2>
+<p>CB Package Builder transforms your digital files into well-presented, secure, manageable packages. Each package can be finely tailored with user CB field-based conditions, honoring Joomla's ACL restrictions and integrating seamlessly with CBSubs for subscription-based access.</p>
+<p>Need to deploy multiple files, packages, or extensions together? No problem! The Presets feature dynamically zips multiple packages into a single download, simplifying installations and updates.</p>
+<p>As a great example, <strong>all our product pages</strong> are entirely made and rendered by CB Package Builder, including our <a href="https://www.joomlapolis.com/addons">CB Add-Ons overview page</a>, all our product pages, including our newest Joomla extension, <a href="https://www.joomlapolis.com/addons/cb-editor-assistant">CB Editor Assistant</a>, as well as our <a href="https://www.joomlapolis.com/downloads">Downloads page</a>.</p>
+<h2 class="mb-2 mt-6 text-lg first:mt-3">Key New Features in Version 8.0</h2>
+<p><strong>1. Smart Authentication with Joomla Download Keys</strong>: Automate the delivery of updates and downloads confidently to the right users, minimizing manual work while enhancing security through site key authentication. <a href="https://forge.joomlapolis.com/issues/9508">[9508]</a></p>
+<p><strong>2. Tailored Update Management</strong>: Enjoy the flexibility to choose software versions that meet your clients' site or needs, reducing complexity. <a href="https://forge.joomlapolis.com/issues/9526">[9526]</a></p>
+<p><strong>3. Seamless Integration with Joomla</strong>: Achieve a smoother operation with improved Joomla XML versioning and checksums, ensuring updates happen automatically, resulting in less downtime and simplified administration. <a href="https://forge.joomlapolis.com/issues/9536">[9536]</a></p>
+<p><strong>4. User Empowerment</strong>: Empower clients by letting them manage their own site keys activations, reducing your workload and allowing them more control over their setups. <a href="https://forge.joomlapolis.com/issues/9507">[9507]</a></p>
+<p><strong>5. Comprehensive Joomla major version Insights</strong>: Obtain valuable data about how your extensions are used across major Joomla versions, enabling more informed decisions and strategic planning. <a href="https://forge.joomlapolis.com/issues/9542">[9542]</a></p>
+<p>These updates, along with numerous enhancements, ensure CB Package Builder remains the most efficient tool for Joomla package management.</p>
+<h2 class="mb-2 mt-6 text-lg first:mt-3">Explore the Full Potential</h2>
+<p>Upgrade to CB Package Builder 8.0 today and experience unparalleled control and efficiency in managing your Joomla extensions. For detailed insights, consult <strong><a href="https://www.joomlapolis.com/blog/kyle/19074-cb-package-builder-8-0-0">Kyle's Blog</a></strong> to explore the latest features and how they can benefit your workflow.</p>
+<p>Visit our <strong><a href="https://www.joomlapolis.com/addons/cb-package-builder">product page</a></strong> for comprehensive details about all the new functionalities that CB Package Builder offers. Ready to maximize your management capabilities? Secure your upgrade with a Developer Membership or existing subscription, and enjoy direct updates via your CMS's Plugin Management.</p>
+<p>Don't miss out on these powerful new capabilities—reinforce your Joomla site's functionality today! Visit our <strong><a href="https://www.joomlapolis.com/memberships">memberships page</a></strong> to upgrade and access these cutting-edge features.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 17 Dec 2024 14:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Unveiling CB Editor Assistant 1.0.0 — The Joomla AI Plugin That Writes Its Own Story!</title>
+			<link>https://www.joomlapolis.com/news/19073-cb-editor-assistant-1-0-0-released-ai-joomla-plugin-writes-its-own-announcement</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19073-cb-editor-assistant-1-0-0-released-ai-joomla-plugin-writes-its-own-announcement</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/products/cbeditorassistant/2024/Screenshot-CB-Editor-Self-Announcement.webp" alt="Screenshot of CB Editor Assistant writing its own front-page announcement article, based on CB SEO 1.0 announcement and the product page, with first an analysis and structure planning" width="1135" height="905" loading="lazy"></p><p>Welcome to a landmark moment in content assistance history — the release of <strong>CB Editor Assistant 1.0.0</strong>! This is not just any launch; it's the unveiling of a tool so advanced, it has actually crafted this announcement itself. Step into a world where your content practically writes itself, and let's explore this groundbreaking addition to your Joomla toolbox.</p>
+<h3>Meet the "Meta-Scribe": A Tool Announcing Itself</h3>
+<p><strong>CB Editor Assistant 1.0.0</strong> brings a touch of sci-fi to your everyday content creation. Imagine a tool that can draft, refine, and enhance any text across your Joomla site in minutes. With the press of a button, witness your content elevate to professional standards effortlessly. This smart assistant is about empowering YOU — ensuring every word you publish resonates with clarity and impact.</p>
+<h3>Boost Efficiency and Creativity</h3>
+<p>Let’s talk productivity: <strong>CB Editor Assistant</strong> triples your writing speed, allowing you to finish drafts in mere minutes. Need instant enhancement? Explore dozens of automatic improvements tailored to elevate your message. And with the <strong>Bulk Processing</strong> feature, enhance multiple sections simultaneously, bringing consistency and polish to your entire site.</p>
+<h3>Enhance SEO and Audience Engagement</h3>
+<p>Drive traffic like never before! <strong>CB Editor Assistant</strong> crafts content that search engines and audiences adore. With AI-enhanced meta descriptions and SEO-optimized text, your site climbs the ranks while captivating readers with engaging, high-quality articles. Watch your click-through rates soar with compelling titles and descriptions that invite exploration.</p>
+<h3>Professional-level Content at Your Fingertips</h3>
+<p>Transform your content from mundane to magnificent with our <strong>Smart Chat Assistant</strong>. Get expert refinements through natural conversation, maintaining your brand's voice across all material. Enjoy flawless grammar, consistent style, and persuasive calls-to-action that turn visitors into loyal customers.</p>
+<h3>Seamless Integration for Every User</h3>
+<p>Installing <strong>CB Editor Assistant</strong> is a breeze. Once integrated, it feels like a natural extension of Joomla 4 and 5 — no additional Community Builder required. Improve every page element seamlessly with the one-click "Improve All" mode, all without leaving your Joomla environment.</p>
+<h3>Act Now: Exclusive Black Friday Offer</h3>
+<p>Excited to try it? Join our vibrant community by checking out our <a href="https://www.joomlapolis.com/addons/cb-editor-assistant">product page</a> and discover the special Black Friday deal. Don’t miss this chance to lock in life-long savings on subscription rates by purchasing directly <a href="https://www.joomlapolis.com/profile/pluginclass/cbpaidsubscriptions?do=displayplans&amp;plans=1s-67s"><strong>here</strong></a>. Embrace the future of content creation with CB Editor Assistant 1.0.0.</p>
+<p>In a fascinating twist, this very narrative has been self-generated by CB Editor Assistant, showcasing the marvel of automation improving our Joomla experience. Dive into what feels like the dawn of a new era with this innovative tool. Experience the blend of creativity and technology, exclusively tailored for Joomla users.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 26 Nov 2024 11:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>CB Paid Subscriptions 4.8.0: Enhanced Flexibility and User Experience</title>
+			<link>https://www.joomlapolis.com/news/19071-cbsubs-4-8-0-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19071-cbsubs-4-8-0-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/stories/cbsubs.jpg" alt="A similing women points at the end of a graph in front of her, with Joomla, CB, CBSubs, users, a cash register and money all linked together" width="521" height="343" loading="lazy"></p><p><span>We're excited to announce the release of CB Paid Subscriptions 4.8.0, a significant update that brings enhanced flexibility and improved user experience to our popular Joomla membership extension.</span><span class="mt-md block"></span></p>
+<p><span>CB Paid Subscriptions is the go-to solution for transforming your Joomla website into a subscription-based platform. Whether you're offering premium content, services, or products, this extension provides comprehensive control over user access, payment processing, and subscription management.</span></p>
+<h2 class="mb-2 mt-6 text-lg first:mt-3">Key New Features</h2>
+<h3 class="mb-2 mt-6 text-lg first:mt-3">Enhanced Plan Options</h3>
+<p><span>The star of this release is the revamped <strong>Plan Options</strong> system, offering <strong>unprecedented flexibility</strong> in <strong>subscription customization</strong>:</span></p>
+<ol class="marker:text-textOff list-decimal pl-8">
+<li><span> </span><span><strong>Flexible Option Pricing</strong>: Implement pricing options that only apply to the initial price, giving you more control over promotional offers and introductory rates <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9067" target="_blank" rel="nofollow noopener">[9067]</a>.</span><span> </span></li>
+<li><span> </span><span><strong>Advanced Selection Methods</strong>: Utilize radio buttons and radio grids for price selection, providing a more intuitive user interface for complex pricing structures <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9056" target="_blank" rel="nofollow noopener">[9056]</a>.</span><span> </span></li>
+<li><span> </span><span><strong>Diverse Field Types</strong>: New support for <strong>text</strong> fields <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9510" target="_blank" rel="nofollow noopener">[9510]</a>, <strong>dropdown multi-select</strong> <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9511" target="_blank" rel="nofollow noopener">[9511]</a>, and <strong>number</strong> fields <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9512" target="_blank" rel="nofollow noopener">[9512]</a> allows for more detailed and varied option configurations.</span><span> </span></li>
+<li><span><strong>Collect additional information</strong>: Add non-price-modifying options, perfect for <strong>gathering user details or preferences</strong> <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9513" target="_blank" rel="nofollow noopener">[9513]</a>.</span><span> </span></li>
+<li><span> </span><span><strong>Dynamic Option Changes</strong>: Change plan options without requiring a renewal, offering more flexibility to your subscribers <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9514" target="_blank" rel="nofollow noopener">[9514]</a>.</span><span> </span></li>
+</ol>
+<h3 class="mb-2 mt-6 text-lg first:mt-3">Improved Promotions and Language Support</h3>
+<ul class="marker:text-textOff list-disc pl-8">
+<li><span> </span><span><strong>Automatic Recurring Payments</strong>: Promotions can now imply auto-recurring payment types, streamlining the subscription process and rewarding loyalty <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/9455" target="_blank" rel="nofollow noopener">[9455]</a>.</span><span> </span></li>
+<li><span> </span><span><strong>Enhanced Language Support</strong>: Implement option-specific language keys for value strings, allowing for more precise localization <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/8992" target="_blank" rel="nofollow noopener">[8992]</a>.</span><span> </span></li>
+</ul>
+<h3 class="mb-2 mt-6 text-lg first:mt-3">Expanded Email Customization</h3>
+<ul class="marker:text-textOff list-disc pl-8">
+<li><span><strong>Additional Email Substitutions</strong></span><span>: Enjoy greater flexibility in customizing emails with new substitution options for presentation emails, CBSubs mailer, and CBSubs emails</span><span> <a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://forge.joomlapolis.com/issues/3654" target="_blank" rel="nofollow noopener">[3654]</a></span><span>.</span></li>
+</ul>
+<h2 class="mb-2 mt-6 text-lg first:mt-3">Benefits for Site Owners and Subscribers</h2>
+<p><span>These new features bring several advantages:</span></p>
+<ul class="marker:text-textOff list-disc pl-8">
+<li><span><strong>Increased Flexibility</strong></span><span>: Tailor your subscription plans with more precision to meet diverse user needs.</span></li>
+<li><span><strong>Improved User Experience</strong></span><span>: Offer a more intuitive selection process for complex subscription options.</span></li>
+<li><span><strong>Enhanced Communication</strong></span><span>: Customize your emails more effectively to engage with your subscribers.</span></li>
+<li><span><strong>Streamlined Management</strong></span><span>: Make changes to subscription options without disrupting existing memberships.</span></li>
+</ul>
+<h2 class="mb-2 mt-6 text-lg first:mt-3">Upgrading and Learning More</h2>
+<p><span></span><span>To take advantage of these new features and improvements, we strongly recommend upgrading to CB Paid Subscriptions 4.8.0.<span class="mt-md block"></span></span></p>
+<p><span>For an in-depth look at the new Options integration features, be sure to check out <strong>Kyle's blog</strong> post: <strong><a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://www.joomlapolis.com/blog/kyle/19070-cbsubs-options-new-fields" target="_blank" rel="nofollow noopener">CBSubs Options: New Fields</a></strong>.</span></p>
+<p><span><span class="mt-md block"></span>For more details about CB Paid Subscriptions and how it can transform your Joomla site, visit our <strong><a class="break-word hover:text-super hover:decoration-super dark:hover:text-superDark dark:hover:decoration-superDark underline decoration-from-font underline-offset-1 transition-all duration-300" href="https://www.joomlapolis.com/addons/cb-paid-subscriptions" target="_blank" rel="nofollow noopener">product page</a></strong>.</span></p>
+<p><span>Ready to upgrade? With a CB Paid Subscriptions or a <strong><a href="https://www.joomlapolis.com/memberships">Developer Membership</a></strong> you can upgrade or install CB Paid Subscriptions 4.8.0 directly from your website in CB Plugin Management today.</span></p>
+<p><span>Empower your membership site with these new capabilities and offer your subscribers a more tailored experience!</span></p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 14 Nov 2024 14:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>CB Auto Actions 9.3.0 Released: Simplify Your Joomla Tasks and Workflow!</title>
+			<link>https://www.joomlapolis.com/news/19068-cb-auto-actions-9-3-0-released-unleash-automation-power</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19068-cb-auto-actions-9-3-0-released-unleash-automation-power</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202410/cb-auto-actions-9-3-0-example-email-action.webp" alt="Screenshot of the CB Auto Actions add-on in Joomlapolis Community Builder, displaying a new auto action titled &#039;Member reached Gold Level.&#039; The interface includes fields for email recipient, subject line, and body text for a customized congratulatory email to members who achieve Gold Level status." width="971" height="683" loading="lazy"></p><p>We're thrilled to introduce <strong>CB Auto Actions 9.3.0</strong>, a game-changer for your Joomla site management. This update is packed with tools designed to simplify your automation tasks and make your workflow more efficient—all without needing to know how to code. Imagine a tool that does the heavy lifting for you, so you can focus on what matters most: growing and engaging your community.</p>
+<h3>What Makes CB Auto Actions Essential?</h3>
+<p>Are repetitive and time-consuming tasks slowing you down? With CB Auto Actions, you can convert these into automated processes. This tool is perfect for managing thriving online communities or enhancing user engagement, allowing you to send emails, update fields, and control user permissions with ease—often with no coding needed. Plus, you have our professional forum support on your side included with CB Auto Actions!</p>
+<h3>Discover the New Features that Make Life Easier</h3>
+<ul>
+<li><strong>Trigger Helper — Your Automation Guide</strong>: This user-friendly tool helps you easily set up triggers. It provides detailed assistance on main triggers and their variables, reducing the need to look up external manuals or code, saving you both time and effort.</li>
+<li><strong>Seamless Action Chaining — Efficient Multi-step Processes</strong>: The "Next Action" feature lets you link multiple actions seamlessly, ideal for comprehensive updates across various tasks such as updating user profiles.</li>
+<li><strong>Simple Condition Checks — Precision User Updates</strong>: Employ new "Starts With" and "Ends With" operators for tailored condition checks. Streamline your ability to update users based on specific roles or attributes, cutting down on manual data handling.</li>
+<li><strong>Effortless Image Management — Easy Synchronization</strong>: Simplify managing image uploads within your field actions. This is perfect for synchronizing user profiles with external avatar systems, ensuring your community members always have up-to-date visuals.</li>
+<li><strong>Secure Data Sharing — Protected Exchanges with Joomla API Tokens</strong>: Use Joomla User API Tokens to simplify secure external or mobile data exchanges, enhancing security without custom keys.</li>
+<li><strong>Improved Alias Management — Prevent Duplicate Issues</strong>: Ensures no duplicate aliases by automatically applying suffixes when needed, maintaining consistency.</li>
+<li><strong>Better JSON Handling — Reliable Data Exchanges</strong>: Enhanced handling ensures consistent and valid outputs, enhancing the reliability of data transactions.</li>
+</ul>
+<h3>Practical Examples to Transform Your Workflow</h3>
+<p>Imagine automatically updating user profiles, sending customized email notifications, or synchronizing data with third-party apps—all while you focus on developing community initiatives. With CB Auto Actions 9.3.0, these tasks happen seamlessly in the background.</p>
+<h3>Don't Miss Out—Enhance Your Site Today</h3>
+<p>Experience the transformative features of <strong><a href="https://www.joomlapolis.com/addons/cb-auto-actions">CB Auto Actions</a> 9.3.0</strong>. This version is built to improve your workflow and fortify your site's functionality. Current Developer and Professional Members can download and upgrade seamlessly through the <em>CB Install from Web</em> CB Plugins Installer.</p>
+<p>Not a member yet? Discover what a <a href="https://www.joomlapolis.com/memberships"><strong>Professional or Developer Membership</strong></a> offers, or consider a <a href="https://www.joomlapolis.com/addons">single add-on purchase</a> to get started. Compatible with Joomla 4 and 5, this tool is vital for advanced site management. For a detailed overview, check out Kyle's full <a href="https://www.joomlapolis.com/blog/kyle/19067-cb-auto-actions-9-3-0">blog post</a> showcasing these exciting updates.</p>]]></description>
+			<category>News</category>
+			<pubDate>Fri, 25 Oct 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.2.0 and 4.4.9 Released: Discover important improvements in your User Experience!</title>
+			<link>https://www.joomlapolis.com/news/19066-joomla-5-2-0-joomla-4-4-9-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19066-joomla-5-2-0-joomla-4-4-9-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202410/j520_640.webp" alt="Joomla 5.2.0 and 4.4.9 Features and maintenance Releases! Secure. Accessible. Fast. Expandable &amp; Yours" width="869" height="400" loading="lazy"></p><h3>Discover the Exciting New Features of Joomla 5.2.0!</h3>
+<p><strong>Joomla 5.2.0</strong> has arrived, bringing a host of features that significantly <strong>enhance the user experience</strong> for website developers and content creators. These improvements <strong>focus on making content management more intuitive and effective</strong>.</p>
+<p>The new and improved <strong>Articles Module</strong> stands out for its flexibility, allowing users to display content with more options and ease. This fosters a better and more flexible way to organize information on your website.</p>
+<p>Customizable <strong>Email Templates</strong> are now available, allowing for seamless adaptation of emails to align with your brand's image. This ensures that all communications maintain a professional appearance. In addition, the upgraded Multilingual Menu Management is capable of <strong>managing multiple languages effortlessly</strong>. By allowing several homepages within a single menu, creating complex multilingual websites becomes straightforward.</p>
+<p>With these updates, Joomla is <strong>streamlining your content creation</strong>, making <strong>learning Joomla easier</strong>, and empowering users to manage their sites <strong>more </strong><strong>efficiently</strong>. Let's take a closer look at these updates:</p>
+<h4>Key Feature Enhancements:</h4>
+<ul>
+<li><strong>Guided Tour Enhancements:</strong> Upon updating, a 'What's New' tour automatically begins, guiding users through the latest features. This ensures you stay informed about all the new improvements added to Joomla 5.2.0.</li>
+<li><strong>Multilingual Menu Management:</strong> Eliminate repeated menus for multilingual sites. Joomla 5.2.0 lets you manage this by integrating multiple homepages into a single menu.</li>
+<li><strong>New Articles Module:</strong> Gain better control over how articles are displayed. With improved filtering by category and customized presentation options, Joomla now offers powerful options with an intuitive interface.</li>
+<li><strong>Customizable Email Templates:</strong> Create HTML email templates directly from the Joomla admin panel to keep communications consistent with your brand.</li>
+<li><strong>Create Categories Directly in Menus:</strong> Speed up your workflow by <strong>saving categories directly within menus</strong>, showcasing Joomla's user-interface and workflow efficiency.</li>
+<li><strong>Improved Media Manager:</strong> Manage media quickly with the automatic selection of your most recent uploads.</li>
+<li><strong>Optimized Image Thumbnails:</strong> Better thumbnail compression for faster page loading and efficient storage management.</li>
+<li><strong>Conditional Fields for Contact Forms:</strong> Dynamically configure fields to show or hide based on settings, improving both the usability and organization of contact forms.</li>
+<li><strong>CSS Class Selector in TinyMCE:</strong> Style links easily with the new CSS class selector in the TinyMCE editor, accelerating content creation.</li>
+<li><strong>SEO and SEF URL Improvements:</strong> Avoid duplicate content and improve SEO with advanced routing improvements.</li>
+<li><strong>PHP 8.4 Support:</strong> Enjoy full support for PHP 8.4, delivering top performance and security updates.</li>
+<li><strong>Improved Password Security:</strong> Enhance security with improved password options that support more special characters.</li>
+<li><strong>Better Task Management:</strong> Administrators receive alerts if scheduled tasks fail, helping them manage the site more proactively.</li>
+</ul>
+<p>For developers, Joomla 5.2.0 introduces <strong>Event Classes for Plugins</strong>, which simplify plugin development through new systems that increase modular capabilities.</p>
+<p>Confidently upgrade your live environments, after checking that your extensions are up to date and creating a back up. Both our own demo site and our main site have smoothly moved to Joomla 5.2.0 without issues. Embrace these changes to maintain your website's security, speed, and efficiency. Explore Joomla 5.2.0 to see how it can redefine your site's performance!</p>
+<p>Alongside Joomla 5.2.0, a Joomla 4.4.9 maintenance release has also been released!</p>
+<p>You can discover more on each of these improvements in the <a href="https://www.joomla.org/announcements/release-news/5916-joomla-5-2-0-and-joomla-4-4-9-are-here.html" target="_blank" rel="noopener">Joomla 5.2.0 and 4.4.9 release announcement</a>!</p>
+<p>Keep innovating, and happy Joomla updating!</p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 17 Oct 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Discover the Exciting New CB GroupJive 3.6.0!</title>
+			<link>https://www.joomlapolis.com/news/19065-groupjive-3-6-0</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19065-groupjive-3-6-0</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/products/cbgroupjive/gjbanner2.gif" alt="Screenshot of a CB Groupjive group with people jumping of joy" width="543" height="351" loading="lazy"></p><p>We are thrilled to introduce <strong>CB GroupJive 3.6.0</strong>, a significant upgrade that is brimming with innovative features for user interaction and community organization, enhancing your overall experience.</p>
+<h3>Comprehensive Events Overview with New Events Page</h3>
+<p>The newly designed <strong>Events Page</strong> presents all available events stylishly, in a searchable and paginated format, simplifying navigation and facilitating event exploration. It consolidates events from multiple groups to boost user engagement.</p>
+<h3>Foster Participation with the New GroupJive Module</h3>
+<p>The new <strong>CB GroupJive Module</strong> offers users a global view of events. You can link directly to specific group events and use custom templates to enhance user interaction. The innovative <strong>'Upcoming Events' mode</strong> keeps members informed and engaged site-wide, seamlessly integrating group activities and fostering participation.</p>
+<h3>Advanced Indexed Search Integration with Joomla Smart Search</h3>
+<p>With CB GroupJive 3.6.0, searches are now <strong>exceptionally fast</strong> and <strong>included in the overall site search results</strong>, thanks to its redesign as a Joomla Smart Search plugin. This improvement allows for swift and efficient group searches, greatly enhancing user experience with reliable indexed results.</p>
+<h3>Dynamic Default Logos and Canvas Features</h3>
+<p>The new logo and canvas settings offer a personal touch for your community. Assign specific or dynamically generated colors for default logos based on categories or group names, giving each group a unique visual identity. Easily toggle canvas and logo displays to align with your community’s aesthetics.</p>
+<h3>Centralized Group Join Approval System</h3>
+<p>Group management is streamlined by centralizing user join requests with a dedicated Joomla menu item for group approvals. The enhanced CB Workflows module now groups pending approvals, providing easy access and improving operational efficiency and management.</p>
+<h3>Get Started with CB GroupJive 3.6.0</h3>
+<p>Enhance your Joomla site's functionality with <strong>CB GroupJive 3.6.0</strong>. Visit <a href="https://www.joomlapolis.com/addons/cb-groupjive">our add-on page</a> for more details, and check out Kyle's insightful <a href="https://www.joomlapolis.com/blog/kyle/19064-cb-groupjive-3-6-0">blog post</a> for a comprehensive overview of the new features. Elevate your community now by upgrading and consider obtaining a <a href="https://www.joomlapolis.com/memberships"><strong>Professional or Developer Membership</strong></a> for cutting-edge tools and exceptional support.</p>]]></description>
+			<category>News</category>
+			<pubDate>Fri, 04 Oct 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Introducing CB User Search 1.0 for Joomla 4 and 5: Optimise User Profile Visibility with Advanced Search Features</title>
+			<link>https://www.joomlapolis.com/news/19063-introducing-cb-user-search-1-0-for-joomla-4-and-5-improve-your-users-visibility-and-traffic</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19063-introducing-cb-user-search-1-0-for-joomla-4-and-5-improve-your-users-visibility-and-traffic</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/products/cbsearchbot/2024/showcase.webp" alt="Screenshot of a Joomla Smart Search result for &quot;Sherry,&quot; displaying a profile result with a profile picture, name, and link to the profile page." width="319" height="304" loading="lazy"></p><p>We're thrilled to announce the launch of <strong>CB User Search 1.0</strong>, a powerful addition to <strong>Joomla 4 and 5</strong>! This innovative plugin enhances user visibility and engagement on your site with cutting-edge search capabilities.</p>
+<h3>Experience the Evolution of User Search</h3>
+<p>The release of <strong>CB User Search 1.0</strong> signifies a leap forward, utilizing Joomla 4 and 5's latest standard in Smart Search. This updated method replaces the previous CB Search Bot, providing a modern and efficient solution for your site's search demands by leveraging the latest Joomla APIs.</p>
+<h3>Blazing Fast Results with Indexed Search</h3>
+<p>The most important advantage of Joomla Smart Search is that it is an indexed search, allowing for instantaneous results that are much faster than previous full searches.</p>
+<h3>Standalone Functionality Without Community Builder</h3>
+<p>Our latest plugin operates independently on Joomla 4 and 5, without necessitating Community Builder. It efficiently manages Joomla User Fields, making it a valuable enhancement for any Joomla website seeking advanced user search capabilities.</p>
+<h3>Tailor Your Search Experience</h3>
+<p>Customization is at the heart of CB User Search 1.0. You have the ability to define which profile fields are publicly searchable, enhancing user discoverability while adhering to your own privacy policy.</p>
+<h3>Personalize Your Search Output</h3>
+<p>With ease, you can adjust the search results, utilizing substitutions to customize what is displayed. If you are using Community Builder, profiles can feature avatar outputs to provide a more personalized search result view.</p>
+<h3>Efficiently Manage User Profiles</h3>
+<p>CB User Search 1.0 offers remarkable control, allowing you to exclude specific users based on IDs or status. This ensures only the most relevant profiles appear in search results. Plus, automatic indexing of new registrations and profile updates keeps your search data up-to-date without any additional effort.</p>
+<h3>Straightforward Integration</h3>
+<p>Integrating CB User Search into your Joomla site is straightforward. Once you've installed and set up the requisite plugins, the system takes care of the rest by automatically indexing profiles either on demand or seamlessly as updates occur.</p>
+<h3>Get Started with CB User Search 1.0</h3>
+<p>Explore the power of <a href="https://www.joomlapolis.com/addons/cb-user-search">CB User Search</a> today to greatly enhance your user experience. Whether you're utilizing Community Builder or running a standalone Joomla site, this plugin is tailored to optimize profile searches with minimal effort. Active Developer and Professional Members can download it freely, or consider a <a href="https://www.joomlapolis.com/memberships"><strong>Professional or Developer Membership</strong></a> or <a href="https://www.joomlapolis.com/addons">single add-on purchase</a>. Fully compatible with Joomla 4 and 5, this tool is essential for taking your user management to the next level. For more details and insights, check out Kyle's comprehensive blog post about the <a href="https://www.joomlapolis.com/blog/kyle/19062-cb-user-search-1-0">CB User Search 1.0 release</a>.</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 18 Sep 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Protect Your Joomla Site with CB AntiSpam 6.1.0</title>
+			<link>https://www.joomlapolis.com/news/19061-cb-antispam-6-1-0-with-advanced-protection-features</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19061-cb-antispam-6-1-0-with-advanced-protection-features</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/products/cbantispam/2024/captcha_modes.webp" alt="Screenshot of a Twitter post about Joomlapolis CBSubs release, showing a woman pointing at a graph." width="424" height="215" loading="lazy"></p><p class="">We are thrilled to announce the release of <strong>CB AntiSpam 6.1.0</strong>, now even more powerful with advanced spam protection for your Joomla site. This essential upgrade ensures compatibility with the latest Kunena version, implements the newest Kunena API, and resolves a timer bug with Ajax validation.</p>
+<h3 class="">Outstanding Spam Defense</h3>
+<p class="">CB AntiSpam 6.1.0 delivers enhanced features to effectively combat spam. The optional integration with AbuseIPDB and CrowdSecCTI protects your site from harmful IPs, ensuring robust defensive measures against potential spam threats. Learn more about these features on the <a href="https://www.joomlapolis.com/addons/cb-antispam">CB AntiSpam product page</a>.</p>
+<p class="">We prioritize security by offering cutting-edge technologies designed to keep your site secure and free from spam.</p>
+<h3 class="">Improved Forum Security</h3>
+<p class="">This upgrade enhances the Kunena forum experience by preventing replies to outdated topics, which are often targeted by spammers. Your forum will remain spam-free, enhancing your site's SEO by keeping relevant discussions at the forefront and maintaining focus on your site's content. This proactive approach helps improve SEO ratings, ensuring your site remains highly visible online.</p>
+<h3 class="">Easy Installation and Updates</h3>
+<p class="">Upgrading to CB AntiSpam 6.1.0 is a smooth and efficient process with our one-click installation via CB's "Install CB Plugins From Web" feature.</p>
+<h3 class="">Our Commitment to Security</h3>
+<p class="">At Joomlapolis, enhancing our security solutions is a priority to combat evolving spam tactics. We value your feedback, which guides us in developing features that best meet your needs. Keep your <a href="https://www.joomlapolis.com/memberships">membership current</a>, as we continually strive to improve your Joomla experience.</p>
+<h3 class="">Deploy CB AntiSpam Today!</h3>
+<p class="">Fortify your Joomla site with <a href="https://www.joomlapolis.com/addons/cb-antispam">CB AntiSpam 6.1.0</a> and anticipate upcoming CB Add-Ons releases. Access everything by subscribing to a <a href="https://www.joomlapolis.com/memberships">Professional or Developer Membership</a>, inclusive of CB AntiSpam and other powerful CB Add-Ons with expert support. Alternatively, a <a href="https://www.joomlapolis.com/addons">single add-on purchase</a> is also available. To dive deeper into the improvements, make sure to read <a href="https://www.joomlapolis.com/blog/kyle/19060-cb-antispam-6-1-0">Kyle's blog on the CB AntiSpam 6.1.0 release</a>. Secure your peace of mind today!</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 10 Sep 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Introducing Community Builder 2.9.3 with Enhanced Security Features!</title>
+			<link>https://www.joomlapolis.com/news/19059-community-builder-2-9-3-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19059-community-builder-2-9-3-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202408/cb-2.9.3.webp" alt="Community Builder 2.9.3 - compatible with Joomla 5.1, 4.4, and 3.10" width="640" height="399" loading="lazy"></p><p>We are pleased to announce Community Builder 2.9.3, an important update with new features, small bug fixes, and a crucial security upgrade that better protects your users.</p>
+<p>The main highlight of this update is the <strong>Enhanced Install from Web</strong> feature, which now comes with a mobile-friendly interface and a helpful new search function, making it easier for you to find and manage plugins. For more details about this feature, visit <a href="https://www.joomlapolis.com/blog/kyle/19052-searching-install-from-web" target="_new" rel="noreferrer">Kyle's latest blog post</a>.</p>
+<p>Here’s a closer look at our security improvement and other enhancements:</p>
+<p><strong>Security Improvement:</strong></p>
+<ul>
+<li><strong>Automatic Logouts for Security:</strong> Now, if a user changes their password, all their other active sessions of the user will automatically sign out. This was a low-priority security issue impacted by a change in Joomla's API, reported by a careful tester (CVSS v4.0 Score: <a title="CVSSv4 calculator" href="https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:P/AC:L/AT:P/PR:N/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/S:N/AU:N/R:U/RE:L" target="_blank" rel="noopener noreferrer">1.0/Low</a>), issue (#9472).</li>
+</ul>
+<p><strong>6 New Features:</strong></p>
+<ol>
+<li><strong>Forgot Login Integration:</strong> Use Joomla's native features to recover passwords or usernames (#9478).</li>
+<li><strong>API Token Display:</strong> Show API token fields on user profiles when enabled (#9471).</li>
+<li><strong>Advanced User Management Search:</strong> Search for empty or filled fields in your user management list (#9479).</li>
+<li><strong>Improved Install Interface:</strong> Updated for better access, now with a new add-ons search feature (#9452).</li>
+<li><strong>Reliable AJAX Access:</strong> Profiles now match access standards for consistency (#6403).</li>
+<li><strong>User Connections Search:</strong> Easily find connections between users (#9470).</li>
+</ol>
+<p><strong>Fixes for 7 Minor Bugs:</strong></p>
+<ul>
+<li>Fixed language switching problem caused during language loading (#9473).</li>
+<li>Enhanced canvas header to work smoothly with Bootstrap 5 (#9481).</li>
+<li>Resolved CSS conflicts in tab navigation (#9480).</li>
+<li>Improved responsive design on the Canvas Home navigation (#9477).</li>
+<li>Corrected null field outputs in htmlspecialcharacters (#9467).</li>
+<li>Fixed PMS SEO Quick Message and Report functionality in URLs (#9463).</li>
+<li>Improved reliable loading of plugin languages (#9458).</li>
+</ul>
+<p>Check out the <a href="https://forge.joomlapolis.com/projects/cb/issues?query_id=253" target="_blank" rel="noopener">complete changelog</a> for all details on these enhancements and fixes.</p>
+<p>This update of Community Builder 2.9.3 is highly recommended, thoroughly tested, and fully works with Joomla versions 3.10, 4.4, and 5.1. Upgrade now for a safer, stronger, and more user-friendly experience.</p>
+<p>Keep your <strong><a href="https://www.joomlapolis.com/memberships">membership</a> active</strong> to access the latest add-ons like CB SEO 1.0.0, CB AntiSpam 6.0.0, and CB Packager 7.0.0, ensuring top performance and security for your site.</p>
+<p> </p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.1.4, 5.1.3, 4.4.8, 4.4.7, and 3.10.18-ELTS Security and Feature Updates Released!</title>
+			<link>https://www.joomlapolis.com/news/19058-joomla-5-1-4-joomla-4-4-8-joomla-3-10-18-elts-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19058-joomla-5-1-4-joomla-4-4-8-joomla-3-10-18-elts-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202408/j514_640.webp" alt="Joomla 5.1.4, 5.1.3, 4.4.8, 4.4.7, and 3.10.18-ELTS Security Releases - Secure, Accessible, Fast, and Expandable!" width="640" height="295" loading="lazy"></p><h3>Discover the Latest Joomla Security and Enhancement Updates!</h3>
+<p>The Joomla development team is pleased to introduce the newest updates: Joomla 5.1.4, 5.1.3, 4.4.8, 4.4.7, and 3.10.18-ELTS. These updates improve the security and functionality of your website, embodying Joomla's commitment to inclusivity and reliability in open-source platforms.</p>
+<p><strong>Key Security Enhancements:</strong></p>
+<ul>
+<li>Core XSS vectors within <a href="https://developer.joomla.org/security-centre/946-20240805-core-xss-vectors-in-outputfilter-strip-methods.html" target="_blank" rel="noopener noreferrer">Outputfilter::strip* methods</a></li>
+<li>Fixed improper ACL for <a href="https://developer.joomla.org/security-centre/945-20240804-core-improper-acl-for-backend-profile-view.html" target="_blank" rel="noopener noreferrer">backend profile view</a></li>
+<li>Resolved XSS in <a href="https://developer.joomla.org/security-centre/944-20240803-core-xss-in-html-mail-templates.html" target="_blank" rel="noopener noreferrer">HTML Mail Templates</a></li>
+<li>Addressed Cache Poisoning in <a href="https://developer.joomla.org/security-centre/942-20240802-core-cache-poisoning-in-pagination.html" target="_blank" rel="noopener noreferrer">Pagination</a></li>
+<li>Enhanced validation of <a href="https://developer.joomla.org/security-centre/941-20240801-core-inadequate-validation-of-internal-urls.html" target="_blank" rel="noopener noreferrer">internal URLs</a></li>
+</ul>
+<p><strong>Joomla 5.1.4 New Features:</strong></p>
+<ul>
+<li>Fixed results pagination regression in Smart Search introduced by a security fix of 5.1.3.</li>
+<li>Improved cache and pagination filter operations for speed and enhanced security.</li>
+<li>Ensured safer tags within email templates.</li>
+<li>Updated PHP version compatibility dates information for future upgrades stability.</li>
+<li>Translation updates for better multilingual support.</li>
+</ul>
+<p>For full details, visit the <a href="https://www.joomla.org/announcements/release-news/5911-joomla-5-1-4-and-joomla-4-4-8-are-here.html" target="_blank" rel="noopener noreferrer">Joomla 5.1.4 and 4.4.8 release announcement</a>.</p>
+<p><strong>Joomla 5.1.3 Features:</strong></p>
+<ul>
+<li>Updated TinyMCE to version 6.8.4 for enhanced text editing.</li>
+<li>Optimised Mail class attachment functions.</li>
+<li>Simplified deletion for Schema.org data.</li>
+<li>Better frontend language support without needing a plugin.</li>
+</ul>
+<p>Read more in the <a href="https://www.joomla.org/announcements/release-news/5910-joomla-5-1-3-and-4-4-7-security-and-bug-fix-release.html" target="_blank" rel="noopener noreferrer">Joomla 5.1.3 and 4.4.7 release details</a>.</p>
+<p><a href="https://www.joomlapolis.com/community-builder">Community Builder</a> and all <a href="https://www.joomlapolis.com/addons">CB Add-Ons</a> are fully compatible with these new releases. Keep your systems updated to take advantage of these improvements effectively.</p>
+<p>Explore the <a href="https://elts.joomla.org/release-notes/joomla-3-10-18" target="_blank" rel="noopener noreferrer">Joomla 3.10.18-ELTS release page</a> for commercial security support details.</p>
+<p><strong>We advise updating your Joomla installations</strong> today for increased security and to enjoy enhanced features.</p>
+<p>Also <strong>keep your Joomlapolis membership current</strong> to access all benefits by visiting our <a href="https://www.joomlapolis.com/memberships">Joomlapolis Memberships page</a>.</p>
+<p>Happy updating!</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 28 Aug 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Introducing CB SEO 1.0 for Joomla 5: Improve Your Site's Visibility and Visitors Traffic</title>
+			<link>https://www.joomlapolis.com/news/19057-cbseo-1-0-0-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19057-cbseo-1-0-0-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202408/cb-seo-1.0.0-twitter-x-example_640.webp" alt="Screenshot of a Twitter post about Joomlapolis CBSubs release, showing a woman pointing at a graph." width="640" height="421" loading="lazy"></p><p>We are excited to introduce <strong>CB SEO 1.0</strong>, an amazing new plugin for <strong>Joomla 5</strong>. This tool makes it <strong>easy to increase your site's visibility on search engines and social media</strong>.</p>
+<h3>Enhance Your Joomla 5 Site's SEO</h3>
+<p><strong>CB SEO</strong> offers extra structured data options, helping search engines find your site easily. This means <strong>better rankings</strong> and more <strong>visitors</strong> with little effort. The plugin provides four schema types: Product, SoftwareApplication, WebApplication, and MobileApplication, covering different business needs.</p>
+<h3>Better Social Media Sharing</h3>
+<p>With <strong>CB SEO</strong>, your website links will look great on platforms like <strong>X (Twitter)</strong>, <strong>Instagram</strong>, and <strong>Facebook</strong>. Using <strong>OpenGraph</strong> tags, your links will show attractive images, increasing clicks and shares. The plugin also supports <strong>Twitter Cards</strong>, making your content <strong>stand out</strong> on X/Twitter feeds.</p>
+<h3>Automate Metadata Management</h3>
+<p>CB SEO <strong>automatically creates and adds</strong> important metadata tags. This saves you time and ensures consistency, so you can focus on creating great content.</p>
+<h3>Easy Integration</h3>
+<p><strong>CB SEO fits perfectly with Joomla 5</strong>, making it feel like part of the platform. It works with <strong>menu items</strong> and <strong>articles</strong>, letting you easily optimize every page. No complicated menus or settings — just simple SEO integrated with Joomla 5! CB SEO is the first plugin of its kind for Joomla with schema.org integration!</p>
+<h3>Join Our Active Community</h3>
+<p>By using <strong>CB SEO</strong>, you join a lively forum community. With a <a href="https://www.joomlapolis.com/memberships">Developer Membership</a>, you get access to <a href="https://www.joomlapolis.com/addons">all our CB Add-Ons</a>, the <a href="https://www.joomlapolis.com/addons/cb-package-builder">CB Package Builder Downloads Manager</a>, <a href="https://www.joomlapolis.com/addons/cb-paid-subscriptions">CB Paid Subscriptions</a>, and more. Share ideas and get support from us and other advanced users to make the most of your add-ons. Our <a href="https://www.joomlapolis.com/forum">forum</a> is always there to help with any questions or issues.</p>
+<h3>Start Using CB SEO Today</h3>
+<p>Learn more about <a href="https://www.joomlapolis.com/addons/cb-seo">CB SEO</a> by <strong>sharing or mentioning <a href="https://www.joomlapolis.com/news/19057-cbseo-1-0-0-released">this article</a></strong> with its URL on social media. You'll see how CB SEO makes your shared links display pictures and descriptions instantly. CB SEO integrates easily into your Joomla site, making SEO simpler than ever. It works as a stand-alone Joomla 5 plugin without needing any other extensions or Community Builder. See how CB SEO 1.0 can boost your Joomla website. Active Developer Members can download or web-install this new plugin for free, or it can be bought through a <a href="https://www.joomlapolis.com/memberships"><strong>Developer Membership</strong></a> or as a <a href="https://www.joomlapolis.com/addons">single add-on purchase</a>. CB SEO is <strong>compatible with Joomla 5.x</strong> and all other Joomla 5-compatible extensions.</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 07 Aug 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.1.2, 4.4.6, and 3.10.16-elts Security Releases Are Here!</title>
+			<link>https://www.joomlapolis.com/news/19055-joomla-5-1-2-joomla-4-4-6-joomla-3-10-16-elts-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19055-joomla-5-1-2-joomla-4-4-6-joomla-3-10-16-elts-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202407/j512_640.webp" alt="Joomla 5.1.2 and 4.4.6 Security Releases! Secure. Accessible. Fast. Expandable &amp; Yours" width="640" height="295" loading="lazy"></p><h3>Joomla 5.1.2, 4.4.6, and 3.10.16-elts Security Releases Are Here!</h3>
+<p>Joomla has released Joomla 5.1.2, Joomla 4.4.6, and Joomla 3.10.16-elts, <strong>addressing several low to moderate security issues</strong> and numerous enhancements to ensure a secure and efficient website experience.</p>
+<p><strong>Security Fixes:</strong></p>
+<ul>
+<li>Multiple XSS vulnerabilities fixed, enhancing security.</li>
+</ul>
+<p><strong>Top Improvements in Joomla 5.1.2:</strong></p>
+<ul>
+<li><strong>PDF Embedding:</strong> Re-enabled PDF embedding <a href="https://github.com/joomla/joomla-cms/pull/43716" target="_new" rel="noreferrer">#43716</a>.</li>
+<li><strong>Schema.org Form Loading:</strong> Improved for better performance <a href="https://github.com/joomla/joomla-cms/pull/42825" target="_new" rel="noreferrer">#42825</a>.</li>
+<li><strong>Update Channel Reset:</strong> Added to Joomla Update Component <a href="https://github.com/joomla/joomla-cms/pull/43717" target="_new" rel="noreferrer">#43717</a>.</li>
+<li><strong>Radio and Checkboxes:</strong> Fixed issues in nested subforms <a href="https://github.com/joomla/joomla-cms/pull/43660" target="_new" rel="noreferrer">#43660</a>.</li>
+<li><strong>Modal-Select Form Field:</strong> Added onchange option <a href="https://github.com/joomla/joomla-cms/pull/43618" target="_new" rel="noreferrer">#43618</a>.</li>
+</ul>
+<p>For a complete list of changes, see the <a href="https://www.joomla.org/announcements/release-news/5909-joomla-5-1-2-and-joomla-4-4-6-security-and-bug-fix-release.html" target="_new" rel="noreferrer">release announcement</a>. For Joomla 3.10.16-ELTS, refer to the <a href="https://elts.joomla.org/" target="_new" rel="noreferrer">release page</a>.</p>
+<p>As usual, <a href="https://www.joomlapolis.com/community-builder">Community Builder</a> and all <a href="https://www.joomlapolis.com/addons">CB Add-Ons</a> are fully compatible with these new Joomla versions. Please ensure you have the latest CB and CB Add-Ons versions installed for tested compatibility and your <a href="https://www.joomlapolis.com/memberships">membership</a> active.</p>
+<p>Upgrade now to benefit from these enhancements and keep your site secure and efficient!</p>
+<p>Happy updating!</p>]]></description>
+			<category>News</category>
+			<pubDate>Fri, 26 Jul 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>CB Paid Subscriptions 4.7.1 Released!</title>
+			<link>https://www.joomlapolis.com/news/19053-cbsubs-4-7-1-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19053-cbsubs-4-7-1-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/stories/cbsubs.jpg" alt="A similing women points at the end of a graph in front of her, with Joomla, CB, CBSubs, users, a cash register and money all linked together" width="521" height="343" loading="lazy"></p><p>We are excited to announce the release of <a href="https://www.joomlapolis.com/addons/cb-paid-subscriptions"><strong>CB Paid Subscriptions 4.7.1</strong></a>, a <strong>highly recommended maintenance update</strong> featuring <strong>18 improvements</strong>, including 6 new features, 12 bug fixes and <strong>several important updates to payment gateways</strong>.</p>
+<p><strong>Key New Features:</strong></p>
+<ul>
+<li><strong>Baskets Admin View Enhancements</strong>: Compute statistics for filtered baskets and add a column with total orders for quick access (#9454, #9453).</li>
+<li><strong>Family Plans Improvements</strong>: Hide the share subscriptions button unless active and update plan prices without affecting child plans (#9402).</li>
+<li><strong>Plan Options Flexibility</strong>: Toggle individual option price display and specify base price for options (#9387, #9386).</li>
+<li><strong>QuickPay Branding Support</strong>: Implement branding_id support for QuickPay (#9294).</li>
+</ul>
+<p>This release ensures smooth operations and <strong>maintains interoperability with payment service providers</strong>.</p>
+<p>For detailed information, please refer to the <a href="https://forge.joomlapolis.com/projects/cb-paid-subscriptions/issues?query_id=243">full changelog</a>.</p>
+<p><a href="https://www.joomlapolis.com/memberships"><strong>Upgrade now</strong></a> to benefit from these enhancements and keep your site running smoothly.</p>
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2" dir="auto" data-message-author-role="assistant" data-message-id="5bdf67be-af8b-4dc2-8335-fc0d9a9ecfae">
+<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert dark"> </div>
+</div>
+</div>
+</div>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 27 Jun 2024 13:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Community Builder 2.9.2 Released!</title>
+			<link>https://www.joomlapolis.com/news/19051-community-builder-2-9-2-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19051-community-builder-2-9-2-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202406/cb-2.9.2.webp" alt="Community Builder 2.9.2, tested on Joomla 5.1, 4.4 and 3.10" width="1403" height="874" loading="lazy"></p><p>We are excited to announce the release of Community Builder 2.9.2, featuring <strong>several new enhancements</strong> and <strong>important bug fixes</strong> designed to improve user experience and functionality.</p>
+<p>The major new feature is <strong>Bootstrap 5 &amp; FontAwesome 6 compatibility</strong>, important for <strong>new Joomla 5 sites</strong>. And here are the full list of other key features and most important bug fixes included in this release:</p>
+<p><strong>6 New Key Features:</strong></p>
+<ol>
+<li><strong>Forum Topics Display</strong>: The Posts tab now outputs topics instead of individual replies (#9424).</li>
+<li><strong>Enhanced Database Checker</strong>: Improved accuracy and stricter collation checks (#9416).</li>
+<li><strong>Faster User Count</strong>: New option for quicker user count in the CB Online module (#9434).</li>
+<li><strong>Template Loading Toggle</strong>: Added parameter to disable template loading in core modules (#9426).</li>
+<li><strong>Bootstrap 5 &amp; FontAwesome 6 Compatibility</strong>: New compatibility modes implemented (#9392).</li>
+<li><strong>Category Column Toggle</strong>: Toggle display for categories in CB Blogs and CB Articles (#9296).</li>
+</ol>
+<p><strong>17 Important Bug Fixes:</strong></p>
+<ul>
+<li>Fixed image cropping dependency issue with jQuery UI (#9379).</li>
+<li>Addressed collation issues during table creation (#9337).</li>
+<li>Resolved display issues with CB Select when using default options (#9404).</li>
+<li>Fixed jQuery Validate "accept" method conflict (#9375).</li>
+<li>Ensured permission fields save correctly on Joomla 4 and 5 (#9354).</li>
+<li>Corrected tooltip loading for template elements (#9448).</li>
+<li>and 11 more minor bug fixes.</li>
+</ul>
+<p>For a complete list of improvements and fixes, please refer to the <a href="https://forge.joomlapolis.com/projects/cb/issues?query_id=245" target="_new" rel="noreferrer">full changelog</a>.</p>
+<p>To learn more about <strong>Bootstrap 5</strong> and <strong>FontAwesome 6</strong>, read <a href="https://www.joomlapolis.com/blog/kyle/19041-bootstrap-5-and-fontawesome-6-compatibility">Kyle's blog on Bootstrap 5 and FontAwesome 6, explaining <strong>how to activate them</strong></a>, published during their early release in our nightly builds available to supportive <a href="https://www.joomlapolis.com/memberships">paid members</a> (thank you!).</p>
+<p>CB 2.9.2 is a highly recommended upgrade, thoroughly tested to run perfectly on the latest Joomla 3.10, 4.4, and 5.1 releases.</p>
+<p>Upgrade now to Community Builder 2.9.2 and take advantage of these enhancements!</p>
+<p>And please make sure to <strong><a href="https://www.joomlapolis.com/memberships">keep your membership active</a> to also get latest CB Add-Ons releases, such as the awesome <a href="https://www.joomlapolis.com/news/19047-introducing-cb-antispam-6-0-0-elevate-your-privacy-and-protection">new CB AntiSpam 6.0.0</a> and <a href="https://www.joomlapolis.com/blog/kyle/19043-cb-package-builder-7-0-0">new CB Packager 7.0.0</a>!</strong></p>
+<p> </p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 12 Jun 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.1.1 and 4.4.5 Are Here!</title>
+			<link>https://www.joomlapolis.com/news/19050-joomla-5-1-1-joomla-4-4-5-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19050-joomla-5-1-1-joomla-4-4-5-released</guid>
+			<description><![CDATA[<p><img src="https://www.joomlapolis.com//images/jpnewsletter/jpn202406/j511_640.webp" alt="Joomla 5.1.1 Bug Fix Release! Secure. Accessible. Fast. Expandable &amp; Yours" width="640" height="295" loading="lazy"></p><h3>Joomla 5.1.1 and 4.4.5 Are Here!</h3>
+<p>Joomla has released <strong>Joomla 5.1.1</strong> and <strong>Joomla 4.4.5</strong>, bringing numerous <strong>enhancements</strong> and fixes to improve your website's performance and user experience.</p>
+<p>We have gone through the list of <strong>27 improvements and fixes in Joomla 5.5.1</strong> and are highlighting the top 5 ones for you:</p>
+<p><strong>Top Improvements in Joomla 5.1.1:</strong></p>
+<ul>
+<li><strong>Proper Support for AVIF/WebP Images:</strong> Supports modern image formats, reducing load times and improving image quality <a href="https://github.com/joomla/joomla-cms/pull/43295" target="_new" rel="noreferrer">#43295</a>.</li>
+<li><strong>Enhanced Empty State Help Links:</strong> Improves user assistance by providing contextual help links <a href="https://github.com/joomla/joomla-cms/pull/43371" target="_new" rel="noreferrer">#43371</a>.</li>
+<li><strong>Backward Compatibility for Bootstrap Modals:</strong> Ensures older plugins and modules remain functional <a href="https://github.com/joomla/joomla-cms/pull/43291" target="_new" rel="noreferrer">#43291</a>.</li>
+<li><strong>CodeMirror 6 JavaScript Highlighting:</strong> Enhances code editing capabilities with better JavaScript highlighting <a href="https://github.com/joomla/joomla-cms/pull/43114" target="_new" rel="noreferrer">#43114</a>.</li>
+<li><strong>Improved Media Manager Thumbnails:</strong> Improves stability and user experience with better error handling for media manager thumbnails <a href="https://github.com/joomla/joomla-cms/pull/43468" target="_new" rel="noreferrer">#43468</a>.</li>
+<li><strong>And 22 Other Improvements and Fixes!</strong></li>
+</ul>
+<p>As usual, the latest releases of <strong><a href="https://www.joomlapolis.com/community-builder">Community Builder</a></strong> and of <a href="https://www.joomlapolis.com/addons">all our <strong>CB Add-Ons</strong></a> are <strong>fully compatible</strong> with these new Joomla versions. Please make sure to have the latest CB and CB Add-Ons versions installef for tested compatibility. <strong><a href="https://www.joomlapolis.com/profile">Renew or upgrade your membership</a></strong> to update your CB Add-Ons if needed.</p>
+<p>The <a href="https://www.joomla.org/announcements/release-news/5908-joomla-5-1-1-and-joomla-4-4-5-are-here.html" target="_blank" rel="noopener">Joomla 5.1.1 and 4.4.5 release announcement</a> has a full list of improvements and fixes.</p>
+<p>Upgrade now to take advantage of these enhancements and keep your site running smoothly!</p>
+<p>Happy updating!</p>]]></description>
+			<category>News</category>
+			<pubDate>Fri, 07 Jun 2024 10:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
